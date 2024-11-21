@@ -1,7 +1,8 @@
 # HealthScan - AI-Powered Product Analysis - LINK - (https://github.com/lucky0612/healthscan)
 
 HealthScan is a modern web application that empowers consumers to make informed decisions about products by providing real-time analysis of health impacts and environmental considerations. Using advanced AI and image processing, it scans product labels and provides detailed insights about ingredients, potential allergens, and environmental sustainability.
-
+## Images
+![Image 1](images/healthscan1.png)
 ## 🌟 Features
 
 ### Core Functionality
